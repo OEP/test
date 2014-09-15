@@ -1,0 +1,3 @@
+[submodule "python-anyvcs"]
+	path = python-anyvcs
+	url = git://github.com/ScottDuckworth/python-anyvcs.git
