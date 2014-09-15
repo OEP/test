@@ -1,3 +1,6 @@
 [submodule "python-anyvcs"]
 	path = python-anyvcs
 	url = git://github.com/ScottDuckworth/python-anyvcs.git
+[submodule "openssh"]
+	path = openssh
+	url = git://anonscm.debian.org/pkg-ssh/openssh.git
